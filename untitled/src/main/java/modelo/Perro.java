@@ -64,6 +64,7 @@ public class Perro extends Animal{
         System.out.println("raza: " + getRaza()) ;
         for (int i = 0; i <getHistorialVacunas().length ; i++) {
             System.out.println("Historial: " + historialVacunas[i]);
+
         }
         System.out.println("el precio final es de: " + getPrecioFinal());
 
