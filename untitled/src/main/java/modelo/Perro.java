@@ -69,7 +69,7 @@ public class Perro extends Animal{
         System.out.println("el precio final es de: " + getPrecioFinal());
 
     }
-    
+
 }
 
 
